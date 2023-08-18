@@ -1,0 +1,1 @@
+Este trabalho consiste em um sistema implementado em Java responsavel por realizar operac¸ ´ oes de CRUD (create, read, update e delete) em um arquivo indexado, um arquivo de lista invertida, um arquivo para realizar compressao e descompressao LZW e criptografia de dados no contexto de contas bancarias
